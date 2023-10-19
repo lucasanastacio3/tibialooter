@@ -2,6 +2,8 @@
 
 Tibia Macro Looter This code is a macro looter for the game Tibia. It uses the pynput library to control the mouse and keyboard.
 
+------------------------------------------------------------------------------
+
 Usage: Download Python and install pynput lib with: "pip install pynput"
 
 Select 8 points around your character and last point(9 point) in your feet.
@@ -15,6 +17,8 @@ If want make it an executable, install pyinstaller with: "pip install pyinstalle
 the command --windowed takes off the console when the app is oppened.
 
 The file that was created stay inside folder "dist"
+
+------------------------------------------------------------------------------
 
 Run the script.
 
